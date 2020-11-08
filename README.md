@@ -1,4 +1,4 @@
-# Zalora-Scraper
+# Zalora Scraper
 A scraper for Zalora written in Python
 
 ## Usage:
@@ -19,7 +19,7 @@ scraper.scrape(
 
 *Running on terminal:*
 
-<img src="screenshot.png"/>
+<img src="../../screenshot.png"/>
 
 *JSON results:*
 
