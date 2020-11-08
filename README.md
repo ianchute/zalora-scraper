@@ -31,7 +31,11 @@ scraper.scrape(
 
 ## Screenshots:
 
-*Running on terminal:*
+*Run on Docker:*
+
+<img src="screenshot3.png"/>
+
+*Run on local Python:*
 
 <img src="screenshot.png"/>
 
