@@ -85,7 +85,8 @@ class ZaloraScraper():
                 "image": x["image"],
             } for x in results]
             return results
-        except:
+        except Exception as e:
+            print(e)
             return []
 
     def scrape(self, gender, product, brand, occassion, batch_size=100, identifier="sku"):
